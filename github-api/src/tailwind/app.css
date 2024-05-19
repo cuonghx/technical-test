@@ -1,0 +1,9 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+.vi-container {
+  height: 550px;
+  overflow: auto;
+}
+
